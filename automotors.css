@@ -1,0 +1,60 @@
+body{ 
+    text-transform: capitalize;
+    text-align: center;
+    font-size: x-large;
+    
+}
+.mtt{ 
+    display: flex;
+ 
+}
+.first{ 
+    background-color: aqua;
+    margin: 40px;
+}
+.second{ 
+    background-color: aquamarine;
+    margin: 40px;
+}
+.third{ 
+    background-color: blanchedalmond;
+    margin: 40px;
+}
+
+
+
+nav{ 
+    background-color: bisque;
+    padding: 3px;
+    text-align: center;
+    font-size: larger;
+    text-transform: capitalize;
+    margin-top: 5px;
+
+    
+
+
+}
+ul li{
+    text-transform: capitalize;
+    
+}
+ul{ 
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    padding: 3px;
+}
+h2{ 
+    text-transform: capitalize;
+    font-size: xx-large;
+    text-align: center;
+}
+p{ 
+    text-transform: capitalize;
+
+}
+#branch{ 
+    text-align: left;
+}
+

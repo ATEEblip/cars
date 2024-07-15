@@ -1,0 +1,12 @@
+body{ 
+    text-align: center;
+    text-transform: capitalize;
+    font-size: larger;
+    display: flex;
+    background-color: bisque;
+    margin: 60px;
+}
+form{ 
+    margin: auto;
+}
+
